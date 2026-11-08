@@ -1,4 +1,7 @@
 // serveur web simple qui retourne toujours une page HTML "hello world"
+// pour compiler gcc http-hello-world.c -o http-hello-world
+// pour exécuter : ./http-hello-world
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
